@@ -1,0 +1,8 @@
+                precision    recall  f1-score   support
+
+No booking (0)       0.72      0.95      0.82       278
+    Booked (1)       0.58      0.17      0.27       122
+
+      accuracy                           0.71       400
+     macro avg       0.65      0.56      0.54       400
+  weighted avg       0.68      0.71      0.65       400
